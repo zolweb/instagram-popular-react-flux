@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "connect-livereload": "^0.5.3",
+    "ejs": "^2.3.1",
+    "event-emitter": "^0.3.3",
+    "express": "^4.12.3",
+    "flux": "^2.0.1",
+    "flux-dispatcher": "^1.0.6",
+    "lodash": "^3.7.0",
+    "node-jsx": "^0.12.4",
+    "react": "^0.13.1",
+    "single-events-eventemitter": "^0.1.0",
+    "superagent": "^1.2.0",
+    "superagent-jsonp": "0.0.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-live-server": "0.0.14",
+    "gulp-webpack": "^1.3.2",
+    "jsx-loader": "^0.13.1",
+    "react-tools": "^0.13.1"
+  }
+}
